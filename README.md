@@ -21,4 +21,6 @@ Things you may want to cover:
 
 * Deployment instructions
 
+  Moficações feitas pelo C Alerto....
+
 * ...
