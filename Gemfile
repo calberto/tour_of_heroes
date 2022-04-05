@@ -39,4 +39,3 @@ group :test do
   gem "webdrivers"
 end
 
-gem "pg", "~> 1.3", :group => :production
